@@ -9,7 +9,10 @@ COPY mvnw .
 COPY .mvn .mvn
 COPY pom.xml .
 
-# Step 4: Download dependencies
+# Fix permissions inside container
+RUN chmod +x mvnw
+
+# Download dependencies
 RUN ./mvnw dependency:go-offline
 
 # Step 5: Copy the rest of the app source code

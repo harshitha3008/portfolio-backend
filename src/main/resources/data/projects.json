@@ -1,0 +1,97 @@
+[
+  {
+    "id": "1",
+    "title": "Mahotsav",
+    "tagline": "A role-based MERN event management platform simplifying college fest registrations and coordination.",
+    "imageUrl": "/images/Mahotsav.png",
+    "liveDemo": "https://mahotsav.vercel.app/",
+    "github": "https://github.com/harshitha3008/Mahotsav-main",
+    "technologyCount": 5,
+    "technologiesUsed": ["MongoDB", "Express.js", "React.js", "Node.js", "Tailwind CSS"],
+    "keyFeatureCount": 7,
+    "keyFeatures": [
+      "Role-based access control for Admin, Lead/Coordinator, and User",
+      "JWT-based secure authentication and session handling",
+      "Admin dashboard for event creation and management",
+      "Coordinator panel for monitoring and managing participant registrations",
+      "User-friendly interface for quick event registration and profile editing",
+      "Real-time updates for registered participants and event changes",
+      "Deployed on Vercel for high scalability and fast performance"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Student Magazine Portal",
+    "tagline": "A departmental magazine portal for CSE students to submit, review, and publish articles, images, and event reports.",
+    "imageUrl": "/images/Student_Magazine.png",
+    "liveDemo": "https://sudentmagazine-frontend.vercel.app/",
+    "github": "https://github.com/harshitha3008/sudentmagazine",
+    "technologyCount": 6,
+    "technologiesUsed": ["MongoDB", "Express.js", "React.js", "Node.js", "Tailwind CSS", "Puppeteer"],
+    "keyFeatureCount": 7,
+    "keyFeatures": [
+      "Dual user roles: Student Coordinators can submit content, Admins review and publish",
+      "Submit articles, images, and event reports seamlessly",
+      "PDF generation of approved content into downloadable magazine editions",
+      "Automated approval workflow for faster content review",
+      "Responsive and intuitive user interface for smooth navigation",
+      "Track and manage submissions with status updates",
+      "Optimized content pipeline achieving 30% faster approval cycle"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Email Spam Detection",
+    "tagline": "A machine learning model to classify emails as spam or ham using advanced feature fusion techniques.",
+    "imageUrl": "/images/spam_email detection.png",
+    "liveDemo": "https://github.com/harshitha3008/Email_Spam_detection",
+    "github": "https://github.com/harshitha3008/Email_Spam_detection",
+    "technologyCount": 7,
+    "technologiesUsed": ["Python", "Scikit-learn", "LightGBM", "NumPy", "Pandas", "Matplotlib", "Seaborn"],
+    "keyFeatureCount": 6,
+    "keyFeatures": [
+      "Built a spam detection model using LightGBM with feature fusion (Count Vectorizer, TF-IDF, Word2Vec)",
+      "Applied text preprocessing: tokenization, stopword removal, and stemming",
+      "Evaluated model performance using precision, recall, F1-score, confusion matrix, and ROC curve",
+      "Achieved high classification accuracy of 98.6%",
+      "Visualized results with Matplotlib and Seaborn for insights",
+      "Optimized model performance with hyperparameter tuning and feature selection"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Savour Spot",
+    "tagline": "A basic web platform for users to register, log in, and access recipes, built to learn full MERN stack with JWT authentication.",
+    "imageUrl": "/images/recipe.png",
+    "liveDemo": "https://final-frontend-yb0l.onrender.com",
+    "github": "https://github.com/harshitha3008/assi-5-with-backend-",
+    "technologyCount": 5,
+    "technologiesUsed": ["MongoDB", "Express.js", "React.js", "Node.js", "JWT Authentication"],
+    "keyFeatureCount": 5,
+    "keyFeatures": [
+      "User registration and login with JWT-based authentication",
+      "Access recipes only after logging in",
+      "Basic CRUD operations for user accounts and recipes",
+      "Learned integration of React frontend with Node.js backend",
+      "Explored JSON for storing user and recipe data"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Jewelry Website",
+    "tagline": "A frontend-focused website to showcase jewelry collections, built to learn HTML, CSS, and JavaScript DOM manipulations.",
+    "imageUrl": "/images/Jewlery.png",
+    "liveDemo": "https://harshitha3008.github.io/Jewelry-website-FEAD/",
+    "github": "https://github.com/harshitha3008/Jewelry-website-FEAD",
+    "technologyCount": 3,
+    "technologiesUsed": ["HTML", "CSS", "JavaScript"],
+    "keyFeatureCount": 5,
+    "keyFeatures": [
+      "Interactive carousel to display jewelry items",
+      "DOM manipulation using JavaScript",
+      "Implemented promises for asynchronous tasks",
+      "Responsive layout with CSS for various screen sizes",
+      "Hands-on practice with frontend fundamentals (HTML, CSS, JS)"
+    ]
+  }
+]

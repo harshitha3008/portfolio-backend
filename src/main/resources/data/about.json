@@ -1,0 +1,20 @@
+{
+  "bio": "I'm a passionate and versatile developer with strong expertise in the MERN stack and intermediate skills in Java Full Stack development. I enjoy solving complex problems, building scalable and efficient web applications, and exploring the latest technologies. Beyond coding, I value collaboration, continuous learning, and contributing to impactful projects that make a difference.",
+  "sections": [
+    {
+      "title": "Leadership & Extracurricular",
+      "count": 3,
+      "tagline": "Leading initiatives beyond the classroom"
+    },
+    {
+      "title": "Education",
+      "count": 3,
+      "tagline": "Academic foundation for growth"
+    },
+    {
+      "title": "Achievements & Certifications",
+      "count": 4,
+      "tagline": "Recognized for excellence and skill"
+    }
+  ]
+}

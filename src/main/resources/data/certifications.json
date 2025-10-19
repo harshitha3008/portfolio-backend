@@ -1,0 +1,23 @@
+[
+  {
+    "title": "1st Prize",
+    "tagline": "VCode Fest Web Hackathon",
+    "description": "Slow Learner Supportive System",
+    "year": "2025",
+    "image": "/images/vcode-1st.jpg"
+  },
+  {
+    "title": "5th Prize",
+    "tagline": "CSE Dept. Web Hackathon",
+    "description": "Event Management System",
+    "year": "2024",
+    "image": "/images/Stackhack.jpg"
+  },
+  {
+    "title": "PET English Proficiency Test",
+    "tagline": "Scored 153/170",
+    "description": "(B1 Level, CEFR)",
+    "year": "2023",
+    "image": "/images/PET.jpg"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Secretary",
+    "year": "2024-2025",
+    "description": "Technical Design, Sports Department, Vignan’s University",
+    "image" : "/images/seceretary-sports.jpg"
+  },
+  {
+    "title": "Coordinator",
+    "year": "2024",
+    "description": "Promotions & Direct Marketing, Vignan Mahotsav",
+    "image" : "/images/Mahotsav-2024.jpg"
+  },
+  {
+    "title": "Volunteer",
+    "year": "2023",
+    "description": "Football, Vignan Mahotsav",
+    "image" : "/images/Mahotsav-2023.jpg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "institution": "Viswabharathi High School",
+    "degree": "State Board",
+    "percentage": "100%",
+    "year": "2018 - 2020",
+    "place": "Gudivada",
+    "image": "/images/school.jpg"
+  },
+  {
+    "institution": "Resonance Junior College",
+    "degree": "Intermediate in MPC",
+    "percentage": "88.1%",
+    "year": "2020 - 2022",
+    "place": "Vijayawada",
+    "image": "/images/11thclass.jpg"
+  },
+  {
+    "institution": "Vignan University",
+    "degree": "B.Tech in Computer Science & Engineering",
+    "percentage": "78%",
+    "year": "2022 - Present",
+    "place": "Vadlamudi, Guntur",
+    "image": "/images/uni.jpg"
+  }
+]

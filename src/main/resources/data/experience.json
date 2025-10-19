@@ -1,0 +1,24 @@
+[
+  {
+    "company": "Vignan’s Foundation for Science, Technology & Research",
+    "role": "Full-Stack Development Intern",
+    "duration": "Aug 2026 – Present",
+    "projects": [
+      {
+        "title": "Portal Enhancement (VIMS)",
+        "description": "Revamped the Vignan’s Intelligent Event Management System by integrating a real-time weather API for dynamic backgrounds and optimized video performance by converting MP4 to WebM for faster loading & reduced server load.",
+        "technologies": ["JSP", "Servlets", "MySQL", "JavaScript"]
+      },
+      {
+        "title": "Registrar Document Management System",
+        "description": "Developed a role-based workflow for document entry & approval supporting three roles (DEO, AR, Registrar). Implemented dashboards for each role to manage submissions, approvals, and status tracking.",
+        "technologies": ["JSP", "Servlets", "MySQL"],
+        "roleBasedFeatures": {
+          "DEO": "Submit bills, upload supporting documents, track status with filters.",
+          "AR": "Review & approve DEO submissions before forwarding.",
+          "Registrar": "Final authority to approve or reject after review."
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  { "id": 1, "name": "cpp", "logoUrl": "/images/cpp.png" },
+  { "id": 2, "name": "java", "logoUrl": "/images/java.png" },
+  { "id": 3, "name": "python", "logoUrl": "/images/python.png" },
+  { "id": 4, "name": "CSS", "logoUrl": "/images/css.png" },
+  { "id": 5, "name": "react", "logoUrl": "/images/react.png" },
+  { "id": 6, "name": "Tailwind", "logoUrl": "/images/tailwind.svg" },
+  { "id": 7, "name": "JavaScript", "logoUrl": "/images/js.png" },
+  { "id": 8, "name": "jsp", "logoUrl": "/images/jsp.png" },
+  { "id": 9, "name": "Express", "logoUrl": "/images/express.png" },
+  { "id": 10, "name": "NodeJS", "logoUrl": "/images/nodejs.png" },
+  { "id": 11, "name": "JWT", "logoUrl": "/images/jwt.png" },
+  { "id": 12, "name": "MongoDB", "logoUrl": "/images/mongodb.png" },
+  { "id": 13, "name": "mysql", "logoUrl": "/images/mysql.png" },
+  { "id": 14, "name": "Eclipse", "logoUrl": "/images/eclipsee.png" },
+  { "id": 15, "name": "Git", "logoUrl": "/images/git.png" },
+  { "id": 16, "name": "github", "logoUrl": "/images/github.png" },
+  { "id": 17, "name": "intellij", "logoUrl": "/images/intellij.png" },
+  { "id": 18, "name": "postman", "logoUrl": "/images/postman.png" }
+]
